@@ -1,0 +1,80 @@
+iPhone batteries are rated to hold 80% of
+their capacity for up to 500 charge cycles,. which lasts roughly 18-24 months for most
+users.. When that happens, you may notice performance
+issues with your phone, which means it’s. time for a new battery.. Today we are going to show you how to replace
+the battery in your iPhone 13!. For this repair you will need A P2 pentalobe
+driver, a Phillips #00 driver, a Y000 Driver,. An iOpener, a suction handle or iSclack, iFixit
+opening picks, tweezers , a spudger, and some. isopropyl alcohol.. We also recommend using a magnetic mat so
+you can keep track of screws, and write down. notes during your repair.. You will also need display adhesive to make
+your phone retains its water resistance when. you reseal your phone, as well as battery
+adhesive to make sure your battery isn’t. moving around after the replacement is finished.. Also make sure you are following the step
+by step guide on iFixit.com as you will be. able to read tips and tricks that will help
+you throughout the repair.. Before you start any iPhone repair, make sure
+you discharge your battery to below 25%.. A charged lithium-ion battery can catch fire
+or explode if you damage it.. Just a heads up before you replace your battery,
+Apple requires replacement parts to be synced. with the iPhone after replacement and unfortunately
+the software required to do this is not currently. available to the public.. After your battery replacement, your iPhone
+may display a warning about the “genuineness”. of the battery.. You’ll also notice battery health and performance
+reporting functions will no longer work, even. when using original Apple parts.. If your iPhone functions normally, you can
+safely ignore all these issues.. To begin, power off your phone by holding
+the side and bottom volume buttons.. Remove the two P2 pentalobe screws at the
+bottom edge of the iPhone.. Grab a hot iOpener and lay the clear side
+down along the bottom edge of the phone.. This will soften the display adhesive.. For the next few steps we are going to be
+using a iSclack.. If you don’t have a iSclack on hand refer
+to the repair guide on on our site where we. walk you through how to use a suction handle
+to remove the iPhone’s display.. Once your iPhone is heated, grab the iSclack
+and position its suction cups near the bottom. edge of the iphone.. Then press both cups firmly into place.. With the suction cups engaged, hold onto your
+phone securely and close the handles of the. iSclack to slightly separate the screen from
+the rear case.. For this step we’re not trying to fully
+separate the display from the phone’s body. we just want to create a gap.. Once you see a gap between the display and
+rear case insert a opening pick into the opening.. Next, place your heated iOpener on the left
+edge of the iphone for about a minute to soften. the adhesive.. Then slide the opening pick around the lower
+left corner and up the left edge of the iPhone,. making sure you don’t insert the pick more
+than 2mm.. Once you are done on the left side lay a heated
+iOpener on the ride edge of the iphone and. repeat this process.. Finally, place your iOpener along the top
+edge of the iPhone.. Insert your pick into the right edge at the
+top and slide it across the edge.. Be very careful and don’t insert the pick
+more than 1mm here.. With all the adhesive separated you can now
+open the phone by swinging the display up. from the right side like the front cover of
+a book.. Don’t try to fully remove the display yet
+though it is still attached via ribbon cables.. Lean the display against something like a
+box or your driver kit so that the iphone. is easier to work on, and then use a phillips
+screwdriver to remove the three screws securing. the battery and display connector cover.. Then remove the cover with your tweezers.. Use a spudger or clean fingernail and pry
+the battery connector up from its socket on. the logic board, and bend the connector away
+slightly so that you don’t risk the chance. of it making contact with the board.. Now disconnect the display cable connector
+from the logic board.. Remove the two phillips and one y000 screws
+securing the front sensor connector cover. and remove the cover with your tweezers by
+swinging the cover towards the display to. unclip the hook.. Now you can disconnect the front sensor assembly
+cable from the logic board-and your display. is now free from the rear case.. To have easier access to the adhesive pull
+tabs securing the battery we need to remove. the loudspeaker, it’s held in place by four
+phillips screws.. When those screws are out you can remove the
+loudspeaker.. There are 4 adhesive strips with pull tabs
+holding that battery in place.. To remove them begin by gently lifting up
+the edges of the pull tabs and then use a. pair of blunt tweezers to peel the tabs away
+from the battery.. Starting with the bottom strips, grab a tab
+with your fingers and slowly pull it away. from the battery while holding the sides of
+the phone.. Pull until the strip pops out and then repeat
+the process for the pull tab next to it.. If a pull tab breaks or you are having trouble
+removing the strips, grab some isopropyl alcohol. and apply some around the battery.. Tilt the phone so the alcohol penetrates under
+the battery and then let it sit for a couple. of minutes.. Once that’s done the battery should lift
+out with just a little force.. Check to see if your replacement battery came
+with preinstalled adhesive strips.. If there are no strips in place check out
+our video on how to install adhesive strips. on your battery.. Lay the battery in your phone gently and position
+it so that your are able to connect the battery. to the logic board.. Once it’s in place press down on the battery
+to activate the adhesive, and then disconnect. the battery using a spudger or your fingernail,
+we don’t want the phone to be powered during. the rest of this repair.. Insert the loudspeaker and reinstall the screws
+securing it to the phone.. Make sure your display has its adhesive strips
+in place, if it doesn’t check out our video. walking you through the process of reinstalling
+display adhesive.. This will ensure that your phone retains its
+water resistance.. With the backing of the adhesive still in
+place-align the display with your phone and. connect the front sensor cable and display
+cable to the logic board.. Go ahead and connect the battery cable and
+power on your phone to make sure it functions. properly.. If all is well, power your phone off and screw
+the covers over the battery and display cables. back into place.. If your adhesive backing is still on go ahead
+and remove it.. Now lay the display into position by aligning
+the clips along the top edge and carefully. pressing the top edge into place.. If it doesn’t click easily into place check
+the clips to make sure they aren’t bent.. If they do click into place easily, continue
+pressing the rest of the display down.. Finally screw back in the two pentalobe screws
+at the bottom of the phone.. For best battery results we recommend calibrating
+your new battery.. We have a page walking you through the process
+at ifixit.com.

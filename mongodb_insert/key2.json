@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "platinum-chain-371410",
+  "private_key_id": "f74e89be0fb197e60d93d54c201eb229e480f735",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC76vpiZ00y6UBI\nab2/4toeIGCzRFA9aJMB4E6hy1lFUrb0KsX5hwHHIAsGIyBSSJUYmOZ20OuhhrBv\nDwF5YeCv3/HaYznnzwr8fnxfF0UyjP5frT6ZsAS8a6VRn8DIG7phnAS9efVwyLt/\nNqmRoDtH132dF1b/tl2r6rnZpFz8tNK4eJN0TmyVztYuRSAVE8svPy0CK48MNs/u\n1dJPo8vFtxsAIMTDX2IyxEnjK80og5a32xnNDSmdrqyipvIvygvL3RwQpi0qqLCf\nC1wCM6J+hicLyMOjdSNlf3wHNStcWmCmlkdKQgfqlcgzIk+VaoqU9R+pPrdnhfbF\nDlFHU6njAgMBAAECggEAA8sjkNb7BPsWdB/GV9hRhOgsa5IGeKbiyNfpXnTHcZHQ\n5a7zXi0uiQGJl28gGOkkMWHszRs8ln8skqFf6z5hlctUi48TPS290AkRo63JlNKp\n0+6gY+PcxJz7smEiOCfvJEdNBTIwFT3IIzJMTAdLCxE7lO9Cr1jUHUNYyx75TZSk\nDVSkCYxr214YWVFoemXnaNd4/wH3t+TUtL9Tw7WMKOPPUz2/3t+8Ajqy7X4OGAre\nqul9kGhKlBKYGubP6B+Z9k8/4p+mLWjSAa95LryCKtIUOtNMstGdsYpVthm+nMIE\nqH7IH6E+Rl86brniEkEfA7gYRnHB6+SPIJTMXldXwQKBgQDcFzLJqDsb7ak31XO+\nTAQ9pmM8n9RZUQRw/VsiEtlQmwXDrqcdjNwnhUtYfPx+USMflts6z9GqfVt+gA3c\n9QQNzeQv1k2oba7DYC6jWULWZBo0zGHlyVdu5gbOQY5wZqsnNwK2oW4voBRbs8Ga\nYzW8HeOwZjOCuImOvHjnHbrfAwKBgQDak/sGtoIcpXJ+JWTePj9ibvP23sSXFp2l\npvm3+GzaSLDpmBaPSraHgQYq1N6y3Ju7efqN7r93UNwkwFDx1OTvfzBrYbdfMBvm\n9KiyClSpZzF/6GsFsKVxUsR7YL/w2U+/oA9I/CemDjrVk6JX5xdXr++SwvDRrezs\nKqdrfXAjoQKBgQCDeQQovGsa4tyb8tFiUuyRm0xakat680+w41fGQfY5FXHbFADW\nQSfeH90Dbh4youtVWnt5ZV1898dpCLu/S0nxqRVvkhfvzh2ArnsNryujAEc7VQAC\nEUU+hQB5w2WANYR2N4FScZptrrWalgXH4Q3fYwd5f4OzyeK6NlIO1Y6k2wKBgFOR\n2ptRcmPDegfzAiLax985rrtHpwBhXDr2oWmOaQf4XPOi+5UjqrAaS6Jaqx7VrBE8\n7OgRTVEwMEs44HnlvPY4uemEfdi+Cxz9k/YmbwIp+0n9MdYGGOtACvFlJ13NqGkK\nqG1uQzaBIEuCW8KiD1GuabnCINL6XahaEpLNbe+hAoGBANNSuA32syygqU9KZ+Qn\n3vXWS8rjhuroEBIDAzzC/GM/pJDyVb3RcygjntC5D3clHssJvHUhvlbcRgBr0zXP\niCtcgXPdRN1A5NZwBCz8QieOtx/fcWPsnCXgQVH8BkouY1PFBj2dBBNnS+253NtC\nkG4n5mrKXOtUvP6R4vmLMrrV\n-----END PRIVATE KEY-----\n",
+  "client_email": "nlpseda@platinum-chain-371410.iam.gserviceaccount.com",
+  "client_id": "110045715808295707715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nlpseda%40platinum-chain-371410.iam.gserviceaccount.com"
+}
